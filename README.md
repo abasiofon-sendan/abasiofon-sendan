@@ -6,7 +6,6 @@
   </a>
 </p>
 
-<img src="https://www.image2url.com/r2/default/images/1786729347991-e1021586-0d3a-4843-8caa-a5898b88b515.jpg" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Backend developer and machine learning engineer. I build APIs and services with
